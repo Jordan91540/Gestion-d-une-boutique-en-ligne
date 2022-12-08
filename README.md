@@ -1,10 +1,10 @@
 # Gestion-d-une-boutique-en-ligne
 ## Optimisez la gestion des données d'une boutique
 
-### Contexte
+### Mise en situation
 Vous commencez votre mission en tant que data analyst freelance chez le marchand de vin BottleNeck.  
-Votre mission se décompose en trois partie:
-- réaliser un rapprochement entre l'export de l'ERP et un export d'une table de l'outil CMS contenant les infomations des produits commercialisés en ligne
+Votre mission se décompose en trois parties:
+- réaliser un rapprochement entre l'export de l'ERP et un export d'une table de l'outil CMS contenant les informations des produits commercialisés en ligne
 - Calculer le chiffre d'affaire par produit, ainsi que le total du chiffre d'affaires réalisé en ligne
 - Réaliser une analyse sur le prix des produits afin de détecter d'éventuelles valeurs aberrantes
 
