@@ -1,6 +1,7 @@
 # Gestion-d-une-boutique-en-ligne
 ## Optimisez la gestion des données d'une boutique
 
+*Projet réalisé dans le cadre de ma formation Openclassrooms*  
 ### Mise en situation
 Vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin très prestigieux.   
 Votre mission se décompose en trois parties:
